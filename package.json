@@ -1,6 +1,6 @@
 {
   "name": "moja-zbrka",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -45,5 +45,9 @@
     "ts-node": "~8.3.0",
     "tslint": "~5.18.0",
     "typescript": "~3.7.5"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.",
+  "main": "karma.conf.js",
+  "author": "",
+  "license": "ISC"
 }
