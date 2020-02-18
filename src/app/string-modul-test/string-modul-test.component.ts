@@ -8,6 +8,7 @@ import { String, StringBuilder } from 'typescript-string-operations';
 })
 export class StringModulTestComponent implements OnInit {
 
+  // tslint:disable-next-line: no-trailing-whitespace
   constructor() 
   { 
     console.log('neprozvan konzolni ispis');
